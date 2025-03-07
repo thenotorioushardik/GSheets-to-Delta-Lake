@@ -1,7 +1,7 @@
 # GSheets to Delta Lake
 
 ## Overview
-This notebook automates the extraction of data from Google Sheets and loads it into Delta Lake tables within Databricks. The script leverages **PySpark**, **Pandas**, and **Google Sheets API** to fetch, process, and store structured data efficiently.
+This notebook automates the extraction of data from Google Sheets and loads it into Delta Lake tables within Databricks. It leverages **PySpark**, **Pandas**, and **Google Sheets API** to fetch, process, and store structured data efficiently.
 
 ## Features
 - **Automated Data Extraction**: Reads data from multiple Google Sheets using the Google Sheets API.
